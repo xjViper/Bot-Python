@@ -69,6 +69,8 @@ In addition to simplifying fishing itself, the project also includes advanced fe
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+---
+
 <!-- USAGE EXAMPLES -->
 
 <a id="usage"></a>
@@ -85,8 +87,6 @@ Below are gifs to demonstrate the project setup, start and stop
 
 ## Configuration:
 
----
-
 <img src="./assets/config.gif" 
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%">
 
@@ -97,8 +97,6 @@ Below are gifs to demonstrate the project setup, start and stop
 <a id="start-the-bot"></a>
 
 ## Start the Bot:
-
----
 
 <img src="./assets/bot.gif" 
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%">
