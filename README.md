@@ -5,7 +5,7 @@
   <p align="center">
     <b>Bot documentation created in python for OtPokemon game</b>
     <br />
-    <a href="https://github.com/xjViper/Bot-Python.git"><strong>Explore the docs »</strong></a>
+    <a href="#start-the-bot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/xjViper/Bot-Python.git">View Demo</a>
