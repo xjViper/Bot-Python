@@ -23,12 +23,13 @@
 <details>
 <summary><b>(click to expand)</b></summary>
 
-1. [About The Project:](#about-the-project)
-   1. [1.1. Built With:](#built-with)
-   1. [1.2. Structure:](#structure)
-1. [2. Usage:](#usage)
-   1. [2.1. Configuration:](#configuration)
-   1. [2.2. Start the Bot:](#start-the-bot)
+1. [ About The Project](#about-the-project)
+   1. [ Built With](#built-with)
+   1. [ Structure](#structure)
+1. [ Usage](#usage)
+   1. [ Configuration](#configuration)
+   1. [ Start the Bot](#start-the-bot)
+1. [ Next Features](#next-features)
 
 </details>
 
@@ -103,16 +104,17 @@ Below are gifs to demonstrate the project setup, start and stop
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ROADMAP -->
+<!-- Next Features -->
 
-<!-- ## Roadmap
+<a id="next-features"></a>
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
+# Next Features:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<b>The new planned additions to the project are in the file below:</b>
+
+[Next Features](./docs/next_features.md)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

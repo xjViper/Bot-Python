@@ -1,28 +1,98 @@
-Adicionar Verificação de Target, para saber se existe player na tela
+# Adicionar a Captcha Thread
 
-Exemplo de Target:
+## para resolver o captcha que aparece a cada poucos minutos durante a pesca
 
-![alt text](./imgs/image.png 'Target')
+</br>
 
-- RGB Target com o Mouse em cima (255, 136, 136)
+<details>
+<summary><b>(click to expand)</b></summary>
 
-- RGB Target sem o Mouse em cima (255, 0, 0)
+> </br>
+>
+> ### Utilizar essa imagem para identificar o captcha na tela;
+>
+> </br>
+>
+> <img src="./imgs/captcha.png" style="width:10%">
+>
+> </br>
+>
+> ### E com a mesma imagem encontrar a área em pixels do captcha;
+>
+> </br>
+>
+> ---
+>
+> </br>
+>
+> ### Como essa área da imagem abaixo:
+>
+> </br>
+>
+> <img src="./imgs/region.png" style="width:20%">
+>
+> </br>
+>
+> ### Com a imagem da área do captcha, encontrar e separar as duas linhas do desafio;
+>
+> </br>
+>
+> ---
+>
+> </br>
+>
+> ### Como essa imagem abaixo:
+>
+> </br>
+>
+> ![Captcha Challenge Img](./imgs/desafio.png 'Captcha Challenge')
+>
+> </br>
+>
+> ### Com as duas linhas separadas, cortar a imagem para cada uma das colunas, criando 6 imagens, cada uma de uma foto do captcha.
+>
+> </br>
+>
+> ---
+>
+> </br>
+>
+> ### Usar um filto cinza para remover a cor das imagens e comparar cada imagem única da primeira fileira com o desafio do segunda fileira;
+>
+> </br>
+>
+> ### Sempre que não for reconhecida nenhuma imagem semelhante, rotacionar as imagens.
+>
+> </br>
+>
+> ---
+>
+> </br>
+>
+> ### Quando 2 imagens derem match, remova as duas imagens da busca, para agilizar a resolução do captcha e
+>
+> ### Adicione as posições das duas em uma tupla, para que no final, o bot possa clicar nas duas sequencialmente e resolver o captcha
+>
+> </br>
 
-- Region: {'left': 1510, 'top': 314, 'width': 194, 'height': 40}
+</details>
 
-- Battle Region: {'left': 1515, 'top': 261, 'width': 189, 'height': 220}
-
-- Battle Name Region: {'left': 1516, 'top': 262, 'width': 191, 'height': 19}
+</br>
+</br>
 
 ---
 
-Adicionar Loot Thread, com screenshot das posições e quando essa imagem ser alterada o local ser looteado
+</br>
 
-Ou pegar o RGB do Alert de Loot (0, 233, 0)
-{'left': 837, 'top': 413, 'width': 239, 'height': 40}
-{'left': 842, 'top': 415, 'width': 232, 'height': 16}
-Exemplo de Local:
+# Adicionar a Bait Thread
 
-![alt text](./imgs/loot.png 'Loot')
+## para repor as iscas de pesca sempre que faltar
 
-![alt text](./imgs/loot_of_a_poke.png 'Loot')
+</br>
+
+<details>
+<summary><b>(click to expand)</b></summary>
+
+> ### Under Contruction
+
+</details>
