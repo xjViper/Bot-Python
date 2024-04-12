@@ -77,7 +77,7 @@ In addition to simplifying fishing itself, the project also includes advanced fe
 
 # Usage:
 
-**The basic use of the project is to click the settings button to change the values and states of all the settings used in the project, after configuring just click the start button so that the bot starts working, whenever you need just press stop to stop the bot ceases its functions.**
+**The basic use of the project is to click the settings button to change the values and states of all the settings used in the project, after configuring just click the start button so that the bot starts working, whenever you need just press stop to the bot ceases its functions.**
 
 Below are gifs to demonstrate the project setup, start and stop
 
