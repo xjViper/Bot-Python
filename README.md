@@ -3,7 +3,7 @@
 <h1 align="center">Bot Python</h1>
 
   <p align="center">
-    <b>Bot documentation created in python for OtPokemon game</b>
+    <b>Documentation of a bot created in python for OtPokemon game</b>
     <br />
     <a href="https://github.com/xjViper/Bot-Python.git"><strong>Explore the docs »</strong></a>
     <br />
